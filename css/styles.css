@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Nanum+Gothic&family=Open+Sans:wght@400;600&family=Roboto:wght@300;400;700&family=Signika+Negative&display=swap');
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/status-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+
+body{
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Cairo', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+}
+
